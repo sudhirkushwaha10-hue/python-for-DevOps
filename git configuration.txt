@@ -1,0 +1,10 @@
+git ko VS Code me configuration krne ke liye following method need
+
+
+
+git config --global user.name
+git config --global user.name "sudhirkushwaha10-hue"
+git config --global user.email "sudhirkushwaha10@gmail.com"
+git config --list
+
+above details are your git user id name, your email address which are linked on GitHub platform
