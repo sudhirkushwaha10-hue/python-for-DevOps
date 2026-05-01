@@ -1,0 +1,14 @@
+what is python
+variables and its rules
+arithmatic operations
+input/output (I/O)
+type casting and type conversion.
+str() method
+float() method
+int()
+# above are summary of till date 1-5-26
+
+data Types.
+number (int, float)
+string ( "", '', """ """, )
+boolean (true /false)
