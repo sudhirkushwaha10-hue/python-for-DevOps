@@ -1,0 +1,26 @@
+# x='10'
+# print(type(int(x)))
+
+# x='10'
+# y= '2'
+# print(x*int(y))
+
+# x='5'
+# y=2
+# print(x+str(y))
+
+# x=input()
+# y=5
+# print(int(x)+y)
+
+# # x=input() i was just doing experiment here
+# y=5
+# res1=x+y
+# print(type(res1))
+
+# x=5
+# y=2
+# print(x/y)
+
+# print(id(y)) #id() identifiy the address of value
+x=5
