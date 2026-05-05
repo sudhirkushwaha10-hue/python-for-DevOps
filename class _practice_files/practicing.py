@@ -69,8 +69,43 @@
 # str2="k"
 # print(str1>str2)
 
-n1=1
-n2=3
-res=not(n1==1 and n2==3 and n1==2 and n2==3)
+# n1=1
+# n2=3
+# res=not(n1==1 and n2==3 and n1==2 and n2==3)
 
-print(res)
+# print(res)
+
+# membershiop oper   (in , not in)
+
+# email="iqindia123@gmail.com"
+# find="123"
+# print(find in email)
+
+# email="iqindia123@gmail.com"
+# find="@gmail.com"
+# print(find in email)
+# if find in email:
+#      print("this is valid mail id")
+# else invalid in gmail id
+
+
+# aman_age = 20
+# abhisek_age=30
+# if aman_age< abhisek_age:
+#      print("yes aman's age in oldeer than abhisek")
+# else:
+#           print("no aman's age in older than abhisek")
+
+# ##user is eligble for voting
+
+min_age=18
+user_age=int(input("enter your age :"))
+
+if user_age<= min_age:
+     print("user is eligible for voting")
+else:
+    print("user is not eligible for voting")
+
+
+
+
