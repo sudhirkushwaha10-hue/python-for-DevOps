@@ -17,10 +17,16 @@
 # y=5
 # res1=x+y
 # print(type(res1))
-
+# Q.no. 17
 # x=5
 # y=2
-# print(x/y)
+# print(type(x/y))
 
-# print(id(y)) #id() identifiy the address of value
-x=5
+# # print(id(y)) #id() identifiy the address of value
+# Q.no. 19
+x=10
+print(int(x+5))
+
+# Ques21
+x=3.14
+print(type(X))
