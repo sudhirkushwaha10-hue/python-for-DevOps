@@ -98,13 +98,19 @@
 
 # ##user is eligble for voting
 
-min_age=18
-user_age=int(input("enter your age :"))
+# min_age=18
+# user_age=int(input("enter your age :"))
 
-if user_age<= min_age:
-     print("user is eligible for voting")
-else:
-    print("user is not eligible for voting")
+# if user_age<= min_age:
+#      print("user is eligible for voting")
+# else:
+#     print("user is not eligible for voting")
+
+
+
+
+
+
 
 
 
