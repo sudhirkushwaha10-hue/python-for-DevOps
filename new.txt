@@ -1,2 +1,0 @@
-print("I am Sudhir")
-print(I am out of Delhi)
