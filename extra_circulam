@@ -6,8 +6,30 @@
 # print(vote)
 
 
-sal=float(input("salary:"))
-tax=sal*(0.1,0.2) [sal>50000]
-print(tax)
+# sal=float(input("salary:"))
+# tax=sal*(0.1,0.2) [sal>50000]
+# print(tax)
+
+# str="""Hi, this sudhir here.\n i'm come from district Ballia, Utterpradesh\n And live currently in Delhi Kalkaji near by govind puri Metro station 
+# """
+# print(str)
+
+
+str= "apna_college"
+ch =str[4]
+print(ch)
+
+#or we can do in this way
+
+str= "apna_college"
+print(str[1])
+
+print(str[1:5])   # this is called slicing string, we can also write this progam like below way
+print(str[1:len(str)])
+
+str="apple"
+print(str[-5:-1])  
+
+
 
 
